@@ -1,11 +1,8 @@
-// import React from 'react'
-import Typography from '@mui/material/Typography';
+import React from "react";
+import Typography from "@mui/material/Typography";
 
 const MyTypo = () => {
-  return (
-    <Typography> Hello </Typography>
+  return <Typography> Hello </Typography>;
+};
 
-)
-}
-
-export default MyTypo
+export default MyTypo;

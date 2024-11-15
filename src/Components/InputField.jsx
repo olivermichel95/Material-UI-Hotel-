@@ -1,7 +1,6 @@
-import TextField from '@mui/material/TextField';
-// import React from 'react';
+import TextField from "@mui/material/TextField";
 
-const InputField = ({ label, value, onChange, type = 'text', ...props }) => {
+const InputField = ({ label, value, onChange, type = "text", ...props }) => {
   return (
     <TextField
       label={label}

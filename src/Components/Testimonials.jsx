@@ -7,9 +7,6 @@ const Testimonials = () => {
       <Typography variant="h4" align="center" gutterBottom>
         TESTIMONIALS
       </Typography>
-      {/* <Typography variant="subtitle1" align="center" gutterBottom sx={{ maxWidth: 800, mx: 'auto', mb: 4 }}>
-        A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-      </Typography> */}
       <Grid container spacing={3} justifyContent="center">
         <Grid item xs={12} sm={8} md={4}>
           <Paper
